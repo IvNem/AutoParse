@@ -1,5 +1,7 @@
 # AutoParse
 Парсер объявлений о продаже автомобилей с различных площадок
+
+![alt text](screenshot_1.png)
 ## Установка
 
 Установите Python пакеты из `requirements.txt`:
