@@ -6,7 +6,8 @@
 # Установка
 Установите Python пакеты из `requirements.txt:`
 ```
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 Для получения подборки автомобилей с сайтов, достаточно запустить файл `start.bat`.
 
 # Что произойдет?
